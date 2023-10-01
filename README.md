@@ -2,3 +2,4 @@
 
 ## Links
 [Original Repo](https://github.com/academind/github-actions-course-resources)  
+[About GitHub-hosted runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners)  
