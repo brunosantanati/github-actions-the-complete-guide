@@ -9,3 +9,4 @@
 
 ## Other repositories from the same course
 [second-action-react-demo](https://github.com/brunosantanati/second-action-react-demo)  
+[github-actions-time-to-practice](https://github.com/brunosantanati/github-actions-time-to-practice)  
