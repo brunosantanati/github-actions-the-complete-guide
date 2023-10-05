@@ -6,6 +6,7 @@
 [Events that trigger workflows](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows)  
 [GitHub Action Checkout](https://github.com/actions/checkout)  
 [Contexts](https://docs.github.com/en/actions/learn-github-actions/contexts)  
+[Skipping workflow runs](https://docs.github.com/en/actions/managing-workflow-runs/skipping-workflow-runs)  
 
 ## Other repositories from the same course
 [second-action-react-demo](https://github.com/brunosantanati/second-action-react-demo)  
