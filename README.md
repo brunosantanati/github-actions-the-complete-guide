@@ -13,3 +13,9 @@
 [github-actions-time-to-practice](https://github.com/brunosantanati/github-actions-time-to-practice)  
 [events-deep-dive](https://github.com/brunosantanati/events-deep-dive)  
 [github-actions-data](https://github.com/brunosantanati/github-actions-data)  
+
+## Some commands used throughout the course
+```
+npm outdated
+npm update
+```
