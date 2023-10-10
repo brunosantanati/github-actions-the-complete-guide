@@ -13,6 +13,7 @@
 [github-actions-time-to-practice](https://github.com/brunosantanati/github-actions-time-to-practice)  
 [events-deep-dive](https://github.com/brunosantanati/events-deep-dive)  
 [github-actions-data](https://github.com/brunosantanati/github-actions-data)  
+[github-actions-env](https://github.com/brunosantanati/github-actions-env)  
 
 ## Some commands used throughout the course
 ```
