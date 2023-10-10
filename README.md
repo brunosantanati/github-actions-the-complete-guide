@@ -20,3 +20,11 @@
 npm outdated
 npm update
 ```
+
+## Default Environment Variables
+
+It was shown in the course how to set and use your own environment variables.
+
+GitHub Actions also provides a couple of default environment variables that are set automatically: https://docs.github.com/en/actions/learn-github-actions/environment-variables#default-environment-variables
+
+These environment variable can, for example, give you quick access to the repository to which the workflow belongs, the name of the event that triggered the workflow and many other things.
