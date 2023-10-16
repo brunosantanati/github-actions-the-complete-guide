@@ -9,6 +9,7 @@
 [Skipping workflow runs](https://docs.github.com/en/actions/managing-workflow-runs/skipping-workflow-runs)  
 [Using inputs and secrets in a reusable workflow](https://docs.github.com/en/actions/using-workflows/reusing-workflows#using-inputs-and-secrets-in-a-reusable-workflow)  
 [About service containers](https://docs.github.com/en/actions/using-containerized-services/about-service-containers)  
+[Creating actions](https://docs.github.com/en/actions/creating-actions)  
 
 ## Other repositories from the same course
 [second-action-react-demo](https://github.com/brunosantanati/second-action-react-demo)  
