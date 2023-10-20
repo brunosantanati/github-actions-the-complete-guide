@@ -10,6 +10,7 @@
 [Using inputs and secrets in a reusable workflow](https://docs.github.com/en/actions/using-workflows/reusing-workflows#using-inputs-and-secrets-in-a-reusable-workflow)  
 [About service containers](https://docs.github.com/en/actions/using-containerized-services/about-service-containers)  
 [Creating actions](https://docs.github.com/en/actions/creating-actions)  
+[Metadata syntax for GitHub Actions - runs.pre](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions#runspre)  
 
 ## Other repositories from the same course
 [second-action-react-demo](https://github.com/brunosantanati/second-action-react-demo)  
