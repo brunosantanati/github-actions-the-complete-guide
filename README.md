@@ -11,6 +11,8 @@
 [About service containers](https://docs.github.com/en/actions/using-containerized-services/about-service-containers)  
 [Creating actions](https://docs.github.com/en/actions/creating-actions)  
 [Metadata syntax for GitHub Actions - runs.pre](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions#runspre)  
+[Creating a JavaScript action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action)  
+[GitHub Actions Toolkit](https://github.com/actions/toolkit)  
 
 ## Other repositories from the same course
 [second-action-react-demo](https://github.com/brunosantanati/second-action-react-demo)  
