@@ -23,6 +23,7 @@
 [github-actions-execution-flow](https://github.com/brunosantanati/github-actions-execution-flow)  
 [github-actions-containers](https://github.com/brunosantanati/github-actions-containers)  
 [github-actions-custom-actions](https://github.com/brunosantanati/github-actions-custom-actions)  
+[github-actions-security](https://github.com/brunosantanati/github-actions-security)  
 
 ## Some commands used throughout the course
 ```
