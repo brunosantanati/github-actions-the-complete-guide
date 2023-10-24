@@ -62,4 +62,18 @@ This is actually quite straightforward:
 
 1. Use your custom Action in any other Workflow (in any other project and repository) by referencing the repository which contains your action (e.g., my-account/my-action@v1)
 
-If your custom Action is stored in a public repository, it can also be published to the GitHub Actions Marketplace as described here: https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace#publishing-an-action
+If your custom Action is stored in a public repository, it can also be published to the GitHub Actions Marketplace as described here: https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace#publishing-an-action  
+
+## More On GitHub Actions Security
+
+In addition to the concepts covered in this module, you should absolutely also explore the security guides by GitHub itself:
+
+- General overview & important concepts: https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions
+
+- More on Secrets: https://docs.github.com/en/actions/security-guides/encrypted-secrets
+
+- Using GITHUB_TOKEN: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
+
+- Advanced - Preventing Fork Pull Requests Attacks: https://securitylab.github.com/research/github-actions-preventing-pwn-requests/
+
+- Security Hardening with OpenID Connect: https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect
