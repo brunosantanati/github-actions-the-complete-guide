@@ -15,6 +15,7 @@
 [GitHub Actions Toolkit](https://github.com/actions/toolkit)  
 [Assigning permissions to jobs](https://docs.github.com/en/actions/using-jobs/assigning-permissions-to-jobs)  
 [About security hardening with OpenID Connect](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect)  
+[Configuring OpenID Connect in Amazon Web Services](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services)  
 
 ## Other repositories from the same course
 [second-action-react-demo](https://github.com/brunosantanati/second-action-react-demo)  
